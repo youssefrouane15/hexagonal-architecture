@@ -1,0 +1,5 @@
+com\luv2kode\ports\spi\BookPersistencePort.class
+com\luv2kode\data\BookDto$BookDtoBuilder.class
+com\luv2kode\data\BookDto.class
+com\luv2kode\ports\api\BookServicePort.class
+com\luv2kode\service\BookServiceImpl.class

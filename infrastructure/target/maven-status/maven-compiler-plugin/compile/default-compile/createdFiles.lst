@@ -1,0 +1,6 @@
+com\luv2kode\adapters\BookJpaAdapter.class
+com\luv2kode\entity\Book.class
+com\luv2kode\mappers\BookMapperImpl.class
+com\luv2kode\repository\BookRepository.class
+com\luv2kode\entity\Book$BookBuilder.class
+com\luv2kode\mappers\BookMapper.class
